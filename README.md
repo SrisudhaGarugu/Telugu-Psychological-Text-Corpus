@@ -1,2 +1,2 @@
 # Telugu-Psychological-Text-Corpus
-This dataset contains Telugu-language text related to mental health, annotated for tasks like sentiment analysis and emotion detection. It supports NLP research in low-resource languages enabling the development of models for mental well-being monitoring and psychological analysis.
+This dataset contains 10,000 Telugu-language mental health texts with 6 columns: ID, User_Input (Telugu), English_Translation, Category, Emotion_Label and Suggested_Response (Telugu) Useful for NLP tasks like sentiment, emotion, and category classification.
